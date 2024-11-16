@@ -5,9 +5,9 @@ const nextConfig: NextConfig = {
   images: {
     dangerouslyAllowSVG: true,
   },
-  output: "standalone",
+  output: "export",
   reactStrictMode: true,
-  swcMinify: true,
+  trailingSlash: true,
 };
 
 export default nextConfig;
