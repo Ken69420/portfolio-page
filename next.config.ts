@@ -6,6 +6,8 @@ const nextConfig: NextConfig = {
     dangerouslyAllowSVG: true,
   },
   output: "standalone",
+  reactStrictMode: true,
+  swcMinify: true,
 };
 
 export default nextConfig;
