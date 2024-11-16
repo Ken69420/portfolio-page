@@ -237,14 +237,15 @@ export default function Home() {
             height={200}
             className="rounded-full mb-8 object-cover"
           />
-          <h1 className="text-4xl font-bold mb-4">Daniel 'Imran</h1>
+          <h1 className="text-4xl font-bold mb-4">Daniel &apos;Imran</h1>
           <h2 className="text-2xl mb-6">Software Engineering Student</h2>
           <p className="mb-8 max-w-xl">
-            I'm a curious and versatile software engineering student who loves
-            diving into diverse technologies. My core passions lie in developing
-            user-friendly software solutions, innovative web applications, and
-            navigating the complexities of cybersecurity. I thrive at the
-            crossroads of learning, development and problem-solving
+            I&apos;m a curious and versatile software engineering student who
+            loves diving into diverse technologies. My core passions lie in
+            developing user-friendly software solutions, innovative web
+            applications, and navigating the complexities of cybersecurity. I
+            thrive at the crossroads of learning, development and
+            problem-solving
           </p>
           <div className="flex space-x-4">
             <Button onClick={() => scrollTo("projects")}>
@@ -262,36 +263,36 @@ export default function Home() {
           <h2 className="text-3xl font-bold mb-6">About Me</h2>
           <div className="max-w-2xl mx-auto">
             <p className="mb-4">
-              Hi, I’m Daniel 'Imran, a passionate software engineering student
-              with a lifelong love for technology. My journey into the tech
-              world began at an early age, inspired by my father, who introduced
-              me to the fascinating world of computers.
+              Hi, I&apos;m Daniel &apos;Imran, a passionate software engineering
+              student with a lifelong love for technology. My journey into the
+              tech world began at an early age, inspired by my father, who
+              introduced me to the fascinating world of computers.
             </p>
             <p className="mb-4">
-              I am currently pursuing a Bachelor’s degree in Computer Science,
-              specializing in Software Engineering, at the International Islamic
-              University Malaysia. I love dabbling in all kinds of technologies,
-              from programming languages and frameworks to project management,
-              software design architecture, testing, blockchain, UI/UX, data
-              structures, networks, and cybersecurity. While some of these I’ve
-              delved deeply into, others I’m exploring at a foundational level,
-              driven by curiosity and a desire to learn.
+              I am currently pursuing a Bachelor&apos;s degree in Computer
+              Science, specializing in Software Engineering, at the
+              International Islamic University Malaysia. I love dabbling in all
+              kinds of technologies, from programming languages and frameworks
+              to project management, software design architecture, testing,
+              blockchain, UI/UX, data structures, networks, and cybersecurity.
+              While some of these I&apos;ve delved deeply into, others I&apos;m
+              exploring at a foundational level, driven by curiosity and a
+              desire to learn.
             </p>
             <p className="mb-4">
-              Beyond academics, I’m actively involved in cybersecurity awareness
-              initiatives and enjoy creating challenging CTF (Capture The Flag)
-              competitions to engage and educate the community. Staying updated
-              with the latest tech trends and participating in forums are some
-              of my favorite activities, allowing me to constantly learn and
-              share insights with like-minded enthusiasts.
+              Beyond academics, I&apos;m actively involved in cybersecurity
+              awareness initiatives and enjoy creating challenging CTF (Capture
+              The Flag) competitions to engage and educate the community.
+              Staying updated with the latest tech trends and participating in
+              forums are some of my favorite activities, allowing me to
+              constantly learn and share insights with like-minded enthusiasts.
             </p>
             <p>
-              Beyond academics, I’m actively involved in cybersecurity awareness
-              initiatives and enjoy creating challenging CTF (Capture The Flag)
-              competitions to engage and educate the community. Staying updated
-              with the latest tech trends and participating in forums are some
-              of my favorite activities, allowing me to constantly learn and
-              share insights with like-minded enthusiasts.
+              With a strong foundation and a curious mind, IWith a strong
+              foundation and a curious mind, I’m always eager to explore new
+              challenges and contribute to impactful technological
+              advancements.m always eager to explore new challenges and
+              contribute to impactful technological advancements.
             </p>
           </div>
         </section>
@@ -449,7 +450,7 @@ export default function Home() {
 
       <footer className="bg-gray-800 text-white py-8">
         <div className="container mx-auto px-6 flex flex-col md:flex-row justify-between items-center">
-          <p>&copy; 2024 Daniel 'Imran. All rights reserved.</p>
+          <p>&copy; 2024 Daniel &apos;Imran. All rights reserved.</p>
           <div className="flex space-x-4 mt-4 md:mt-0">
             <a
               href="https://github.com/Ken69420"
