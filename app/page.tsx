@@ -231,7 +231,7 @@ export default function Home() {
           className="min-h-screen flex flex-col justify-center items-center text-center"
         >
           <Image
-            src="/rmvbgprofilepicture.png"
+            src="/profilepicture.jpg"
             alt="Profile Picture"
             width={200}
             height={200}
