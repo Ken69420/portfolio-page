@@ -232,7 +232,7 @@ export default function Home() {
         >
           <Image
             src="/profilepicture.png?height=200&width=200"
-            alt="John Doe"
+            alt="Profile Picture"
             width={200}
             height={200}
             className="rounded-full mb-8 object-cover"
