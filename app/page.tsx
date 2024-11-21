@@ -231,7 +231,7 @@ export default function Home() {
           className="min-h-screen flex flex-col justify-center items-center text-center"
         >
           <Image
-            src="/profilepicture.png?height=200&width=200"
+            src="/profilepicture.png"
             alt="Profile Picture"
             width={200}
             height={200}
